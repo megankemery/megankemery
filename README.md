@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Megan!
 
-<!--
-**megankemery/megankemery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT Support professional with experience in technical troubleshooting, application support, device administration, and knowledge management.
 
-Here are some ideas to get you started:
+I currently support employees in a large public school district, handling approximately 75–200 support tickets weekly and leading an employee-facing IT knowledge-base restructuring project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Experience
+- **IT Support:** Incident IQ, troubleshooting, ticket management, and user support
+- **Applications:** Microsoft 365, Google Workspace, and educational software
+- **Device Management:** Jamf School, Apple School Manager, and Google Admin
+- **Identity & Access:** Authentication, MFA, user account troubleshooting, and access management
+- **Documentation:** Knowledge-base organization, technical writing, and self-service support resources
+
+### Portfolio Projects
+- **User Account Audit Tool:** An identity and access management audit simulation.
+- **IT Knowledge Base Redesign:** A documentation and information architecture case study (in development).
+
+### Currently Learning
+Cloud technologies, Microsoft identity management, scripting, and SaaS application support.
+
+### Career Interests
+IT Support | Application Support | SaaS Technical Support | Knowledge Management
